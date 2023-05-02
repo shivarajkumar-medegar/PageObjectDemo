@@ -1,0 +1,31 @@
+[INFO ] 2023-04-28 11:06:50,366 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 11:06:53,368 library.BaseClass:34 - username entered
+[INFO ] 2023-04-28 11:06:53,454 library.BaseClass:36 - password entered
+[INFO ] 2023-04-28 11:06:53,745 library.BaseClass:38 - Login button clicked
+[INFO ] 2023-04-28 11:06:54,141 library.BaseClass:68 - Screenshot taken for test: login_success
+[INFO ] 2023-04-28 11:06:55,548 library.BaseClass:74 - Browser closed successfully
+[INFO ] 2023-04-28 11:51:07,528 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 11:55:59,477 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 11:56:17,978 library.BaseClass:75 - Browser closed successfully
+[INFO ] 2023-04-28 11:58:04,363 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 11:58:11,630 library.BaseClass:36 - tooltip text is:: Search by voice
+[INFO ] 2023-04-28 11:58:22,974 library.BaseClass:75 - Browser closed successfully
+[INFO ] 2023-04-28 11:59:40,480 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 11:59:40,621 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 12:00:00,303 library.BaseClass:34 - username entered
+[INFO ] 2023-04-28 12:00:00,735 library.BaseClass:68 - Screenshot taken for test: login_failed
+[INFO ] 2023-04-28 12:00:00,809 library.BaseClass:36 - password entered
+[INFO ] 2023-04-28 12:00:02,087 library.BaseClass:75 - Browser closed successfully
+[INFO ] 2023-04-28 12:48:22,273 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 12:48:29,396 library.BaseClass:36 - tooltip text is:: Search by voice
+[INFO ] 2023-04-28 12:48:40,734 library.BaseClass:75 - Browser closed successfully
+[INFO ] 2023-04-28 12:50:26,479 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 12:50:33,528 library.BaseClass:40 - tooltip text is:: Search by voice
+[INFO ] 2023-04-28 12:50:44,867 library.BaseClass:75 - Browser closed successfully
+[INFO ] 2023-04-28 12:53:41,802 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 12:53:42,539 library.BaseClass:61 - chromeEdge browser launched successfully
+[INFO ] 2023-04-28 12:53:45,983 library.BaseClass:34 - username entered
+[INFO ] 2023-04-28 12:53:46,077 library.BaseClass:36 - password entered
+[INFO ] 2023-04-28 12:53:46,358 library.BaseClass:38 - Login button clicked
+[INFO ] 2023-04-28 12:53:46,765 library.BaseClass:68 - Screenshot taken for test: login_success
+[INFO ] 2023-04-28 12:53:49,019 library.BaseClass:75 - Browser closed successfully
